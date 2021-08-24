@@ -14,7 +14,7 @@
 </br>
 </br>
 ### 컴퓨터 시스템의 구성
-![ex_image](./os_images/1.png)
+![ex_image](os_images/1.png)
 
 - system call interface, kernel, resource ManageMent가 운영체제에 속함.
 - 하드웨어 관리, 사용자에게 서비스 제공 역할 수행.
@@ -52,13 +52,13 @@
     * 운영체제의 개념이 존재하지 않음(사용자가 직접 기계어로 직접 프로그램 작성)
     * 실행하는 작업 별 순차처리.
 
-  * 배치 시스템 ![ex_image](./os_images/2.png)
+  * 배치 시스템 ![ex_image](os_images/2.png)
     * 모든 시스템을 중앙에서 관리 및 운영
     * 사용자의 요청 작업을 일정부분 모아두었다가, 한번에 처리 
     * 장점 : 많은 사용자가 시스템 자원 공유, 처리 효율 향상
     * 단점 : 생산성 저하(같은 유행의 작업들이 모이기를 기다려야함), 긴 응답시간(작업 제출, 결과 출력시간이 길다.).
 
-  * time sharing system ![ex_image](./os_images/3.png)
+  * time sharing system ![ex_image](os_images/3.png)
     * 여러 사용자가 시스템 및 가상 메모리 관리
     * 사용자 지향적. 단말기 사용.
     * 장점 : 응답시간 단축, 생산성 향상
