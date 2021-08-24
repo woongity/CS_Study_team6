@@ -10,7 +10,7 @@
 
 ##### ~8/25 
 * [chapter 1]
-* [chapter 2](/chapter2/chapter2.md)
+* [chapter 2]
 ##### ~8/31 
 * [chapter 3]
 * [chapter 4]
