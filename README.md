@@ -9,7 +9,7 @@
 ### Computer Science
 
 ##### ~8/25 
-* [chapter 1] - 임예나
+* [chapter 1](OS/chapter1/chapter1.md) - 임예나
 * [chapter 2](chapter2/chapter2.md)  - 양태웅
 ##### ~8/31 
 * [chapter 3] 
