@@ -18,3 +18,4 @@
 
   
 
+![Lecture4_1](assets/Lecture4_1.PNG)
