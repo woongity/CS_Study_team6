@@ -1,13 +1,13 @@
-# Lecture 4. Process Management
+# Lecture 3. Process Management
 
 <br>
 
 ## 목차
-> [1. Process의 개념](#1.-Process의-개념) <br>
-> [2. PCB(프로세스 관리 블록)](#2.-PCB(프로세스-관리-블록)) <br>
+> [1. Process의 개념](#1.-process의-개념) <br>
+> [2. PCB(프로세스 관리 블록)](#2.-pcb-프로세스-관리-블록) <br>
 > [3. 프로세스 상태 변화](#3.-프로세스-상태-변화) <br>
-> [4. 인터럽트(Interrupt)](#4.-인터럽트(Interrupt)) <br>
-> [5. Context Switching(문맥 교환)](#5.-Context-Switching(문맥-교환)) <br>
+> [4. 인터럽트(Interrupt)](#4.-인터럽트-interrupt) <br>
+> [5. Context Switching(문맥 교환)](#5.-context-switching-문맥-교환) <br>
 
 <br>
 
@@ -65,7 +65,7 @@
 
 <br><br>
 
-## 2. PCB(프로세스 관리 블록)
+## 2. PCB-프로세스 관리 블록
 
 ### Process Control Block
 - OS가 프로세스 관리에 필요한 정보 저장, 프로세스 생성시 생성
@@ -149,7 +149,7 @@
 
 <br><br>
 
-## 4. 인터럽트(Interrupt)
+## 4. 인터럽트-Interrupt
 - 예상치 못한 외부에서 발생한 이벤트
 - I/O, Clock, Console, Program check, Machine check, Inter-process, System call 등 다양한 인터럽트 종류
 
@@ -161,7 +161,7 @@
 
 <br><br>
 
-## 5. Context Switching(문맥 교환)
+## 5. Context Switching-문맥 교환
 
 - Context
   - 프로세스와 관련된 정보들의 집합
