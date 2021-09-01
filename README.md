@@ -12,8 +12,8 @@
 * [chapter 1 : Computer System Overview](OS/chapter1/chapter1.md) - 임예나
 * [chapter 2 : Os Overview](chapter2/chapter2.md)  - 양태웅
 ##### ~8/31 
-* [chapter 3] 
-* [chapter 4]
+* [chapter 3 : Process Management](chapter3/chapter3.md) - 김은솔 
+* [chapter 4 : Thread Management](chapter4/chapter4.md) - 조영신
 ##### ~9/6
 * [chapter 5]
 * [chapter 6]
