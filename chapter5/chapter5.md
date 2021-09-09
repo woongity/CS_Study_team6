@@ -1,7 +1,5 @@
 # **스케줄링(Scheduling)**
 
----
-
 -   여러개의 프로세스가 시스템 내 존재하는 다중 프로그래밍에서 자원 할당을 위한 프로세스를 선택하는 과정
 
 **자원 관리에 대한 분류**
@@ -33,8 +31,6 @@
 <br>
 
 # **프로세스 스케줄링(Process Scheduling)**
-
----
 
 ### **용어**
 
@@ -116,8 +112,6 @@
 <br>
 
 # **기본 스케줄링 알고리즘(Basic Scheduling Algorithms)**
-
----
 
 ### **FCFS(First-Come-First-Service)** \- 공평성(Fairness)
 
