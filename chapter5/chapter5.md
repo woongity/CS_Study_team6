@@ -1,4 +1,4 @@
-## **스케줄링(Scheduling)**
+# **스케줄링(Scheduling)**
 
 ---
 
@@ -30,7 +30,9 @@
 
 ⁞
 
-## **프로세스 스케줄링(Process Scheduling)**
+<br>
+
+# **프로세스 스케줄링(Process Scheduling)**
 
 ---
 
@@ -63,6 +65,8 @@
 -   **프로세스 총 실행 시간(Total Service Time)**
 
 ⁞
+
+<br>
 
 #### **스케줄링 단계(Level)**
 
@@ -109,8 +113,9 @@
     -   (장점) 시스템 환경 변환에 유연한 대응 가능
     -   (단점) 구현 복잡, 우선순위 재계산 오버헤드가 큼
 
-##   
-**기본 스케줄링 알고리즘(Basic Scheduling Algorithms)**
+<br>
+
+# **기본 스케줄링 알고리즘(Basic Scheduling Algorithms)**
 
 ---
 
