@@ -16,7 +16,7 @@
 * [chapter 4 : Thread Management](chapter4/chapter4.md) - 조영신
 ##### ~9/6
 * [chapter 5 : Process Scheduling]() - 임예나
-* [chapter 6 : Process Synchronization and Mutual Exclusion]() - 양태웅
+* [chapter 6 : Process Synchronization and Mutual Exclusion](chapter6/lecture6.md) - 양태웅
 ##### ~9/10 
 * [chapter 7]
 * [chapter 8]
