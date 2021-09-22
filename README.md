@@ -18,7 +18,7 @@
 * [chapter 5 : Process Scheduling]() - 임예나
 * [chapter 6 : Process Synchronization and Mutual Exclusion](chapter6/lecture6.md) - 양태웅
 ##### ~9/10 
-* [chapter 7]
+* [chapter 7 : Deadlock](chapter7/chapter7.md) - 김은솔
 * [chapter 8 : Memory Management](chapter8/chapter8.md) - 조영신
 ##### ~9/16 
 * [chapter 9]
