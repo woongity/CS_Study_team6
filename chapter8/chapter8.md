@@ -80,7 +80,7 @@
 2. 프로그램의 범위가 커널(Kernel)을 건드리면 안되므로 보호할 방법이 필요하다.
 3. 프로그램의 크기가 메모리보다 작다면 남는 공간이 낭비된다.
 
-![Lecture8_5](assets/Lecture8_5.JPG)
+![Lecture8_5](assets/Lecture8_5.PNG)
 
 
 
